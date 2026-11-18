@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gamber07
-- 👀 I’m interested in computer automatize
-- 🌱 I’m currently learning python
+- 👀 I’m interested in computer automation
+- 🌱 I currently a University Student
 - 📫 You can contact me on ig: @giacomo.gamberi
 
 <!---
